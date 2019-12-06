@@ -9,6 +9,7 @@ Though my approach has showed to be a failure, I hope it will somehow contribute
 ---
 ## Key words
 Video stabilization, CNN, optical flow generation, meshflow.
+
 ---
 ## References
 [1]  Liu S., Tan P., Yuan L., Sun J., Zeng B. (2016) MeshFlow: Minimum Latency Online Video Stabilization. In: Leibe B., Matas J., Sebe N., Welling M. (eds) Computer Vision – ECCV 2016. ECCV 2016. Lecture Notes in Computer Science, vol 9910. Springer, Cham.
